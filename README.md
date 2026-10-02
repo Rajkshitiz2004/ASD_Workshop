@@ -8,6 +8,7 @@ A simple Express.js REST API with **layered architecture** and **caching middlew
 
 ```
 kshitiz_ASD_Workshop/
+├── .gitignore
 ├── package.json
 ├── server.js
 ├── README.md
