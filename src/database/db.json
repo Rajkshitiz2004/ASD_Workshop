@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 999.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Headphones",
+      "price": 49.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 3,
+      "name": "Coffee Mug",
+      "price": 12.99,
+      "category": "Kitchen"
+    },
+    {
+      "id": 4,
+      "name": "Notebook",
+      "price": 5.99,
+      "category": "Stationery"
+    },
+    {
+      "id": 5,
+      "name": "Backpack",
+      "price": 79.99,
+      "category": "Accessories"
+    },
+    {
+      "id": 6,
+      "name": "Mouse",
+      "price": 19.99,
+      "category": "Electronics"
+    }
+  ],
+  "nextId": 7
+}
